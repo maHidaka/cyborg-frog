@@ -2,6 +2,11 @@
 
 This repository is the software for the driver board that I created to control the frog with electricity.
 
+https://youtu.be/JHviKa-B62o
+[!['altテキスト'](https://github.com/maHidaka/cyborg-frog/assets/50083939/3df27502-172b-4ba7-ab15-23de6b3f3519)](https://youtu.be/JHviKa-B62o)
+
+
+
 ## INFO
 There is an explanation about the circuit I am using on the following website.
 
