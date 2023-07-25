@@ -9,7 +9,7 @@ https://youtu.be/JHviKa-B62o
 
 ## INFO
 There is an explanation about the circuit I am using on the following website.
-
+https://handaru.net/blog/2023/07/25/425/
 
 ## Usage
 This project is developed using PlatformIO, but you can also use ArduinoIDE for development.
